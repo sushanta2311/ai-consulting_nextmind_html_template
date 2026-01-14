@@ -1,0 +1,2 @@
+# ai-consulting_nextmind_html_template
+ai-consulting_nextmind_html_template
